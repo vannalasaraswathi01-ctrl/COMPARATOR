@@ -1,0 +1,2 @@
+# COMPARATOR
+To implement comparator
