@@ -1,0 +1,13 @@
+
+### 4. `output.txt`
+
+After running the simulation, your `output.txt` should look like this:
+
+```text
+A     B     A>B  A=B  A<B
+-------------------------
+0011   0010    1    0    0
+0010   0101    0    0    1
+0110   0110    0    1    0
+1111   0001    1    0    0
+0000   1111    0    0    1
